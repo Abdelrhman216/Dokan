@@ -1,16 +1,38 @@
-# untitled
+# 🛒 Dokan
 
-A new Flutter project.
+Dokan is a Flutter-based mobile application designed to help shop owners and small businesses manage their daily operations easily and efficiently.
 
-## Getting Started
+The app focuses on simplicity, clean design, and a smooth user experience, making business management more accessible.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- Simple and user-friendly interface
+- Clean and modern UI design
+- Built with Flutter for cross-platform support
+- Easily extensible for future features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+> Screenshots will be added soon
+
+---
+
+## 🛠️ Technologies Used
+- **Flutter**
+- **Dart**
+- **Material Design**
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK installed  
+- Android Studio or VS Code
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/USERNAME/Dokan.git
